@@ -1,4 +1,4 @@
-# youtube-cli
+# YouTubeCLI
 
 CLI tool to query YouTube. It can return the ID, title, and publish date of videos matching the query. Matches can be made by newest or most relevant.
 
