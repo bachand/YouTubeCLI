@@ -5,5 +5,5 @@ CLI tool to query YouTube. It can return the ID, title, and publish date of vide
 It is necessary to create a Google API token and set it as an environment variable.
 
 ```shell
-YTC_KEY="myKeyFromGoogle" YouTubeCLI "furry cats"
+YTC_KEY="myKeyFromGoogle" ./YouTubeCLI "furry cats"
 ```
